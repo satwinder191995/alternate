@@ -6,7 +6,7 @@ import Contact from './components/Contact';
 import Project from './components/Project';
 import Certifications from './components/Certifications';
 import Footer from './components/Footer';
-import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+import { HashRouter as Router, Routes, Route } from 'react-router-dom';
 function App() {
   // const [aboutSelected, setAboutSelected] = useState(true);
   // const [resumeSelected, setResumeSelected] = useState(false);
