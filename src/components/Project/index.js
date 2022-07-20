@@ -39,6 +39,15 @@ function Project(props) {
     img:'blog',
   },
   {
+    title:'Photo Album',
+    type:'React',
+    liveUrl:'https://satwinder191995.github.io/album/',
+    gitUrl:'https://github.com/satwinder191995/album.git',
+    img:'photo',
+    
+  },
+
+  {
     title:'Weather',
     type:'Frontend',
     liveUrl:'https://satwinder191995.github.io/weather/',
